@@ -8,8 +8,8 @@
 # Site settings
 title: Effective Giving
 description: CSCI 376 HCI Group Project
-baseurl: "/csci376effectivegiving" # the subpath of your site, e.g. /blog
-url: "https://qianwenzheng.github.io/csci376effectivegiving" # the base hostname & protocol for your site
+baseurl: "/effectivegiving" # the subpath of your site, e.g. /blog
+url: "https://qianwenzheng.github.io/csci376effectivegiving/jekyllorg" # the base hostname & protocol for your site
 
 # Profiles
 facebook_username: randomexample
